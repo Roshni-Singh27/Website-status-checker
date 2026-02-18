@@ -1,0 +1,15 @@
+# List of websites to check
+# Lines starting with # are ignored
+
+https://www.google.com
+https://www.github.com
+https://www.stackoverflow.com
+https://www.python.org
+https://www.npmjs.com
+https://www.docker.com
+https://www.kubernetes.io
+https://www.example.com
+https://www.nonexistent-website-12345.com
+http://httpbin.org/status/404
+http://httpbin.org/status/500
+http://httpbin.org/delay/15

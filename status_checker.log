@@ -1,0 +1,4 @@
+2026-02-18 20:23:56,449 - INFO - Loaded configuration from config.json
+2026-02-18 20:23:56,452 - INFO - Checking 2 unique URLs
+2026-02-18 20:23:58,216 - INFO - Results exported to status_check_20260218_202358.json
+2026-02-18 20:23:58,222 - INFO - Results exported to status_check_20260218_202358.csv
