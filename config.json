@@ -1,0 +1,11 @@
+{
+    "timeout": 10,
+    "max_workers": 5,
+    "verify_ssl": true,
+    "user_agent": "Website-Status-Checker/1.0",
+    "auto_export": true,
+    "export_format": ["json", "csv"],
+    "notify_on_failure": false,
+    "retry_failed": false,
+    "max_retries": 3
+}

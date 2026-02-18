@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://github.com",
+    "status_code": 200,
+    "category": "success",
+    "response_time": 1.0994176864624023,
+    "error_message": null,
+    "timestamp": "2026-02-18T20:23:56.454567",
+    "is_accessible": true,
+    "content_type": "text/html; charset=utf-8",
+    "server": "github.com"
+  },
+  {
+    "url": "https://google.com",
+    "status_code": 200,
+    "category": "success",
+    "response_time": 1.7545695304870605,
+    "error_message": null,
+    "timestamp": "2026-02-18T20:23:56.454079",
+    "is_accessible": true,
+    "content_type": "text/html; charset=ISO-8859-1",
+    "server": "gws"
+  }
+]
